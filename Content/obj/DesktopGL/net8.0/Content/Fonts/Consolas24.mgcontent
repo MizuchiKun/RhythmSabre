@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Fonts/Consolas24.spritefont</SourceFile>
+  <SourceTime>2025-01-13T20:46:18.834104+01:00</SourceTime>
+  <DestFile>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/bin/DesktopGL/Content/Fonts/Consolas24.xnb</DestFile>
+  <DestTime>2025-03-27T23:15:06.8907946+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

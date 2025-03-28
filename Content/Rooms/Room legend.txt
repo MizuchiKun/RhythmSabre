@@ -1,0 +1,28 @@
+The legend of the Room indices and metadata.
+
+The GameObject at a given position is specified by the index and its optional metadata.
+E.g.: [index]:[metadata], 3:2
+If no metadata is given, the metadata will be treated as 0 (e.g. 3 = 3:0).
+
+Legend:
+
+0 = Nothing
+1 = Enemy
+ :0 = Exploder
+ :1 = Floater
+ :2 = Fly
+ :3 = Flyboss
+ :4 = Flytrap
+ :5 = Screamer
+2 = Environment
+ :0 = Campfire
+ :1 = Chest
+ :2 = Hole
+ :3 = Poop
+ :4 = Pot
+ :5 = Rock
+3 = Itemstone
+ :0 = Heart
+ :1 = Poopsicle
+ :2 = Shroom
+ :3 = Syringe

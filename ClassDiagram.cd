@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjektRoguelike._ClassTemplate" Collapsed="true">
+    <Position X="78.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\_ClassTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Animation" Collapsed="true">
+    <Position X="80.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBCgAAMAAIAAAAEAAFQAAAQBAAAAQEAQACBgQAgAAAA=</HashCode>
+      <FileName>Classes\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.OptionsButton" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAkQAAAAAAAAAAAAAAAAAAAABAAAAAAI=</HashCode>
+      <FileName>Classes\Button\OptionsButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Button" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAEAAAAQAAgAAAAAAQAAAAEAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Classes\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Camera" Collapsed="true">
+    <Position X="82" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Room" Collapsed="true">
+    <Position X="76" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAAAAABAAAAgAABABAIAAAEAEAAAAgEBIACAAAA=</HashCode>
+      <FileName>Classes\GameObject\GameObjectContainer\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.GameObjectContainer" Collapsed="true">
+    <Position X="76" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAgAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\GameObjectContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Door" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAQQAAAAIABAIAAAACAAAEAAAAAAFAAAAAAIBACAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Exploder" Collapsed="true">
+    <Position X="17.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Enemy\Exploder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Floater" Collapsed="true">
+    <Position X="19.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Enemy\FlyingEnemy\Floater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Fly" Collapsed="true">
+    <Position X="22" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAIAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Enemy\FlyingEnemy\Fly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Flyboss" Collapsed="true">
+    <Position X="24.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAIAAAAAEIgQCAAAAAgAAAIAAAQAACAAgAAIRAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Enemy\FlyingEnemy\Flyboss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.FlyingEnemy" Collapsed="true">
+    <Position X="22" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAABAAgACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Enemy\FlyingEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Flytrap" Collapsed="true">
+    <Position X="26.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Enemy\Flytrap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Screamer" Collapsed="true">
+    <Position X="28.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Enemy\Screamer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Enemy" Collapsed="true">
+    <Position X="23.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUQAAIAAgAAAAAACBAAAAAABQAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Chest" Collapsed="true">
+    <Position X="37.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Environment\Chest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Hole" Collapsed="true">
+    <Position X="40" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Environment\Hole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Itemstone" Collapsed="true">
+    <Position X="42.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Environment\Itemstone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Poop" Collapsed="true">
+    <Position X="44.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Environment\Poop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Pot" Collapsed="true">
+    <Position X="46.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Environment\Pot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Rock" Collapsed="true">
+    <Position X="49" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Environment\Rock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Environment" Collapsed="true">
+    <Position X="43.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAACAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Heart" Collapsed="true">
+    <Position X="67" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\Heart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.PickupItem" Collapsed="true">
+    <Position X="54.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAgAIAAAAAAAAAAAAAAAAQAACAAAAABBAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\PickupItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.PickupBomb" Collapsed="true">
+    <Position X="51.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\PickupItems\PickupBomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.PickupCoin" Collapsed="true">
+    <Position X="53.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\PickupItems\PickupCoin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.PickupHeart" Collapsed="true">
+    <Position X="55.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\PickupItems\PickupHeart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.PickupKey" Collapsed="true">
+    <Position X="58" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\PickupItems\PickupKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Poopsicle" Collapsed="true">
+    <Position X="60.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\Poopsicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Shroom" Collapsed="true">
+    <Position X="62.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\Shroom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Syringe" Collapsed="true">
+    <Position X="64.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item\Syringe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Item" Collapsed="true">
+    <Position X="59.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Bomb" Collapsed="true">
+    <Position X="31" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAABAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\NeutralDamage\Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Campfire" Collapsed="true">
+    <Position X="33.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\NeutralDamage\Campfire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.NeutralDamage" Collapsed="true">
+    <Position X="32.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\NeutralDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Player" Collapsed="true">
+    <Position X="35.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAQAgCCCAgAAAAQQkABAQAAAAAgAAACAAE=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Entity" Collapsed="true">
+    <Position X="42.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQCCAAAIIEAAAAAAAAAAAAAAAAAAAAAAAAAAACAEA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Explosion" Collapsed="true">
+    <Position X="69.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAACAAAAAAEAQAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Explosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.EnemyAttack" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Projectile\EnemyAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.BasicAttack" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Projectile\PlayerAttack\BasicAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Flybuddy" Collapsed="true">
+    <Position X="8.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIgAAJBAAgAAAAAAAAAAAAAAAAIAAAAAAABEAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Projectile\PlayerAttack\Flybuddy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.PlayerAttack" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Projectile\PlayerAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Projectile" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAgAAACAAAACAAAAABQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Tile" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Trapdoor" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAIAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Trapdoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Sprite" Collapsed="true">
+    <Position X="36.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAoAgAAYAAAAAAAAABAAEAAIAABgAACA=</HashCode>
+      <FileName>Classes\GameObject\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Text" Collapsed="true">
+    <Position X="71.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAoAgAAYAAAAAAAAAAAAEAAAAIBgCAAA=</HashCode>
+      <FileName>Classes\GameObject\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.UI" Collapsed="true">
+    <Position X="73.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAgAAAQCEAAAAAAQAAAAAAAAAICAAgAA=</HashCode>
+      <FileName>Classes\GameObject\UI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.GameObject" Collapsed="true">
+    <Position X="40" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAEAgAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Globals" Collapsed="true">
+    <Position X="78.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIIBQFBCIgqgBAQAQAIJABQAKAAEAzIAQAAAAAAQWAA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.McTimer" Collapsed="true">
+    <Position X="80.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAEAAAAAABAAAAAAAAAAAAAIAAAACBAAACAAMBAA=</HashCode>
+      <FileName>Classes\McTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Save" Collapsed="true">
+    <Position X="82" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAAECAAAABABAAAECCAADAEEAABgBAA=</HashCode>
+      <FileName>Classes\Save.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Challengesmenu" Collapsed="true">
+    <Position X="10" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Classes\Scene\Challengesmenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Level" Collapsed="true">
+    <Position X="12.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQAiAAAGAAKggwAAAAAgAAAgAAQQAAAAA=</HashCode>
+      <FileName>Classes\Scene\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Mainmenu" Collapsed="true">
+    <Position X="1" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABSACAAAMAIAAgAAIAAAICQABECAAAAgAIAAAABACQA=</HashCode>
+      <FileName>Classes\Scene\Mainmenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Optionsmenu" Collapsed="true">
+    <Position X="3.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAhRIgIAJAAAAAAAAAAAAAAAIAACAAAACAA=</HashCode>
+      <FileName>Classes\Scene\Optionsmenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Statsmenu" Collapsed="true">
+    <Position X="5.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Classes\Scene\Statsmenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Victoryscreen" Collapsed="true">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAhAAgAAIQBAAAUAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Classes\Scene\Victoryscreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Scene" Collapsed="true">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektRoguelike.Sounds" Collapsed="true">
+    <Position X="78.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAABAAICAAAAAQAAAACAADAA=</HashCode>
+      <FileName>Classes\Sounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProjektRoguelike.RoomKind" Collapsed="true">
+    <Position X="82" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAQAAAAAAAAAAIAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Classes\GameObject\GameObjectContainer\Room.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProjektRoguelike.DoorKind" Collapsed="true">
+    <Position X="80.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Door.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProjektRoguelike.DoorState" Collapsed="true">
+    <Position X="82" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Classes\GameObject\Sprite\Door.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProjektRoguelike.Directions" Collapsed="true">
+    <Position X="78.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProjektRoguelike.Gamestate" Collapsed="true">
+    <Position X="78.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAIAAAAAEEAAAAAAAAAAAAgAAAQCAAAAgA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProjektRoguelike.MouseButton" Collapsed="true">
+    <Position X="80.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAABAAAAAAAAAAAAAACACQAAAAAAA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="ProjektRoguelike.PassObject" Collapsed="true">
+    <Position X="78.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="ProjektRoguelike.PassObjectsAndReturn" Collapsed="true">
+    <Position X="80.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

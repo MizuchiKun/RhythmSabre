@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Fonts/Consolas24.spritefont</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/Song/audio.mp3</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Attack1.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Destroyed.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/EnemyAttack.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/GetHitEnemy.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/ONEECHAN.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound1.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound10.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound11.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound2.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound3.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound4.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound5.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound6.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound7.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound8.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Sound9.wav</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sounds/SoundEffect/Victory.mp3</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Effects/Explosionsheet.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Effects/Poofsheet.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Explodersheet_down.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Explodersheet_left.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Explodersheet_up.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Floatersheet_down.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Floatersheet_left.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Floatersheet_up.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Flyboss_wo_shadow.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Flysheet.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Flytrapsheet_down.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Flytrapsheet_left.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Flytrapsheet_up.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Screamersheet_down.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Screamersheet_left.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Screamersheet_up.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Enemies/Shadow.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Boden.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/BossDoorSheet.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/DoorSheet.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/EckeBL.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/EckeBR.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/EckeTL.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/EckeTR.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Firesheet.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/HiddenDoorSheet.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Hole.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Itemstone.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Kiste.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/LockedDoor.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Poop.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Pot.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Rock.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/Trapdoor.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/WandB.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/WandL.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/WandR.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Environment/WandT.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Items/Heart.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Items/Pille1.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Items/Pilz.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Items/Poopice.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Items/Syringe.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/Arrowbutton.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/Challenges.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/ControlsInstructions.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/enemyattack.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/Mainmenu1.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/Options.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/Playerattack.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/Screamerattack.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/Stats.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Misc/Victoryscreen.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Pickups/Bomb.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Pickups/Coin.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Pickups/Key.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Pickups/PickupHeart.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Playable Char/Herosheet_down.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Playable Char/Herosheet_left.png</File>
+    <File>D:/Documents/University &amp; School stuff/BBS/HBFI/Praktika &amp; Projekte/Projekte/ProjektRoguelike/ProjektRoguelike/Content/Sprites/Playable Char/Herosheet_up.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
